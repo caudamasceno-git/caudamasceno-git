@@ -36,17 +36,17 @@
 </p>
 #Curso                     /                            Status
 </p>
-1 - Banco de Dados SQL do Zero ao Avançado + Projetos Reais✅ Concluído
+1 - Banco de Dados SQL do Zero ao Avançado + Projetos Reais / ✅ Concluído
 </p>
-2 - Microsoft EXCEL Completo do Zero ao Avançado✅ Concluído
+2 - Microsoft EXCEL Completo do Zero ao Avançado / ✅ Concluído
 </p>
-3 - Aprenda Microsoft POWER BI em 7 dias + Projetos Reais✅ Concluído
+3 - Aprenda Microsoft POWER BI em 7 dias + Projetos Reais / ✅ Concluído
 </p>
-4 - Lógica de Programação Para Iniciantes e Estudantes✅ Concluído
+4 - Lógica de Programação Para Iniciantes e Estudante s/ ✅ Concluído
 </p>
-5 - Excel do Básico ao Avançado + Dashboards com Power BI✅ Concluído
+5 - Excel do Básico ao Avançado + Dashboards com Power BI / ✅ Concluído
 </p>
-6 - Programação PYTHON: Do Zero a Inteligência Artificial 2026🔄 Em andamento
+6 - Programação PYTHON: Do Zero a Inteligência Artificial 2026 / 🔄 Em andamento
 </p>
 
 
