@@ -17,9 +17,13 @@
 👨‍💻 Sobre mim
 
 📊 Apaixonado por análise de dados e visualização de informações
+</p>
 🎯 Buscando minha primeira experiência/estágio na área de Data Analytics
+</p>
 📈 Especialidade em criação de dashboards interativos e tomada de decisão baseada em dados
+</p>
 🌱 Atualmente evoluindo em SQL e Inteligência Artificial
+</p>
 📍 São José dos Campos, SP — Brasil
 
 
