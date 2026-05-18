@@ -33,12 +33,8 @@
 </p>
 
 📚 Cursos & Certificações — Udemy
---  Banco de Dados SQL do Zero ao Avançado + Projetos Reais✅ Concluído
---  Microsoft EXCEL Completo do Zero ao Avançado✅ Concluído
---  Aprenda Microsoft POWER BI em 7 dias + Projetos Reais✅ Concluído
---  Lógica de Programação Para Iniciantes e Estudantes✅ Concluído
---  Excel do Básico ao Avançado + Dashboards com Power BI✅ Concluído
---  Programação PYTHON: Do Zero a Inteligência Artificial 2026🔄 Em andamento
+#CursoStatus1Banco de Dados SQL do Zero ao Avançado + Projetos Reais✅ Concluído2Microsoft EXCEL Completo do Zero ao Avançado✅ Concluído3Aprenda Microsoft POWER BI em 7 dias + Projetos Reais✅ Concluído4Lógica de Programação Para Iniciantes e Estudantes✅ Concluído5Excel do Básico ao Avançado + Dashboards com Power BI✅ Concluído6Programação PYTHON: Do Zero a Inteligência Artificial 2026🔄 Em andamento
+
 
 📊 GitHub Stats
 <p align="center">
