@@ -48,6 +48,7 @@
 </p>
 6 - Programação PYTHON: Do Zero a Inteligência Artificial 2026 / 🔄 Em andamento
 </p>
+7 - Formação Inteligência Artificial: Do Zero ao Avançado (2026) / 🔄 Em andamento
 </p>
 </p>
 
