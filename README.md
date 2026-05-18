@@ -36,25 +36,16 @@
   <img src="https://img.shields.io/badge/Lógica%20de%20Programação-6A0DAD?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
-📚 Cursos & Certificações — Udemy
-</p>
-#Curso                     /                            Status
-</p>
-1 - Banco de Dados SQL do Zero ao Avançado + Projetos Reais / ✅ Concluído
-</p>
-2 - Microsoft EXCEL Completo do Zero ao Avançado / ✅ Concluído
-</p>
-3 - Aprenda Microsoft POWER BI em 7 dias + Projetos Reais / ✅ Concluído
-</p>
-4 - Lógica de Programação Para Iniciantes e Estudante s/ ✅ Concluído
-</p>
-5 - Excel do Básico ao Avançado + Dashboards com Power BI / ✅ Concluído
-</p>
-6 - Programação PYTHON: Do Zero a Inteligência Artificial 2026 / 🔄 Em andamento
-</p>
-7 - Formação Inteligência Artificial: Do Zero ao Avançado (2026) / 🔄 Em andamento
-</p>
-</p>
+📚 Cursos & Certificações
+✅ Concluídos
+📘 Banco de Dados SQL do Zero ao Avançado + Projetos Reais
+📗 Microsoft Excel Completo do Zero ao Avançado
+📊 Aprenda Microsoft Power BI em 7 Dias + Projetos Reais
+💻 Lógica de Programação Para Iniciantes
+📈 Excel do Básico ao Avançado + Dashboards com Power BI
+🔄 Em Andamento
+🐍 Programação Python: Do Zero à Inteligência Artificial 2026
+🤖 Formação Inteligência Artificial: Do Zero ao Avançado (2026)
 
 
 📊 GitHub Stats
