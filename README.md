@@ -25,6 +25,7 @@
 🌱 Atualmente evoluindo em SQL e Inteligência Artificial
 </p>
 📍 São José dos Campos, SP — Brasil
+</p>
 
 
 🛠️ Tecnologias & Ferramentas
