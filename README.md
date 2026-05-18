@@ -48,6 +48,8 @@
 </p>
 6 - Programação PYTHON: Do Zero a Inteligência Artificial 2026 / 🔄 Em andamento
 </p>
+</p>
+</p>
 
 
 📊 GitHub Stats
