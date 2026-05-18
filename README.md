@@ -34,7 +34,7 @@
 
 📚 Cursos & Certificações — Udemy
 </p>
-#Curso                                                 Status
+#Curso                     /                            Status
 </p>
 1 - Banco de Dados SQL do Zero ao Avançado + Projetos Reais✅ Concluído
 </p>
@@ -44,7 +44,9 @@
 </p>
 4 - Lógica de Programação Para Iniciantes e Estudantes✅ Concluído
 </p>
-5 - Excel do Básico ao Avançado + Dashboards com Power BI✅ Concluído6Programação PYTHON: Do Zero a Inteligência Artificial 2026🔄 Em andamento
+5 - Excel do Básico ao Avançado + Dashboards com Power BI✅ Concluído
+</p>
+6 - Programação PYTHON: Do Zero a Inteligência Artificial 2026🔄 Em andamento
 </p>
 
 
