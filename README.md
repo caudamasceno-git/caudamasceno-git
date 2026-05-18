@@ -36,25 +36,25 @@
   <img src="https://img.shields.io/badge/Lógica%20de%20Programação-6A0DAD?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
-📚 Cursos & Certificações
+  📚 Cursos & Certificações
 </p>
-✅ Concluídos
+  ✅ Concluídos
 </p>
-📘 Banco de Dados SQL do Zero ao Avançado + Projetos Reais
+-- 📘 Banco de Dados SQL do Zero ao Avançado + Projetos Reais
 </p>
-📗 Microsoft Excel Completo do Zero ao Avançado
+-- 📗 Microsoft Excel Completo do Zero ao Avançado
 </p>
-📊 Aprenda Microsoft Power BI em 7 Dias + Projetos Reais
+-- 📊 Aprenda Microsoft Power BI em 7 Dias + Projetos Reais
 </p>
-💻 Lógica de Programação Para Iniciantes
+-- 💻 Lógica de Programação Para Iniciantes
 </p>
-📈 Excel do Básico ao Avançado + Dashboards com Power BI
+-- 📈 Excel do Básico ao Avançado + Dashboards com Power BI
 </p>
-🔄 Em Andamento
+  🔄 Em Andamento
 </p>
-🐍 Programação Python: Do Zero à Inteligência Artificial 2026
+-- 🐍 Programação Python: Do Zero à Inteligência Artificial 2026
 </p>
-🤖 Formação Inteligência Artificial: Do Zero ao Avançado (2026)
+-- 🤖 Formação Inteligência Artificial: Do Zero ao Avançado (2026)
 </p>
 
 
