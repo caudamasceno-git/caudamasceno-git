@@ -77,6 +77,3 @@ Estou em busca de uma oportunidade de estágio ou primeiro emprego na área de D
 
 
 
-
-[Base Vendas Bikes.xlsx](https://github.com/user-attachments/files/27980070/Base.Vendas.Bikes.xlsx)
-
