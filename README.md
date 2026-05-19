@@ -74,3 +74,9 @@ Estou em busca de uma oportunidade de estágio ou primeiro emprego na área de D
   <img src="https://komarev.com/ghpvc/?username=caudamasceno-git&color=blue&style=flat-square&label=Visitantes" alt="profile views"/>
 </p>
 <p align="center">⭐ Obrigado por visitar meu perfil!</p>
+
+
+
+
+[Base Vendas Bikes.xlsx](https://github.com/user-attachments/files/27980070/Base.Vendas.Bikes.xlsx)
+
